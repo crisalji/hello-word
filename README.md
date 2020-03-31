@@ -1,2 +1,5 @@
 # hello-word
- repositorio
+ 
+ Hi humans!
+ 
+ Escribe un poco sobre tí.
